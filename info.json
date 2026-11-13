@@ -1,0 +1,16 @@
+{
+  "name": "The-Spelter-Twins",
+  "version": "1.0.0",
+  "title": "○🌐The Spelter Twins",
+  "author": "AndreusAxolotl",
+  "homepage": "https://github.com/AndreusAxolotl/The-Spelter-Twins",
+  "description": "The worlds of zinc and lead come together.",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "Muria >= 1.11.0",
+    "Paracelsin >= 1.13.0"
+],
+"space_travel_required": true,
+"spoiling_required": true,
+"freezing_required": true
+}
